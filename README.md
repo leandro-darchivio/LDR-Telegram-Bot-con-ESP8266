@@ -33,7 +33,7 @@ Este proyecto implementa un bot de Telegram que utiliza un ESP8266 para leer el 
 ### Configuración del código
 1. Descarga o clona este repositorio:
    ```bash
-   git clone https://github.com/leandro-darchivio/sensores-a-telegram.git
+   git clone https://github.com/leandro-darchivio/LDR-Telegram-Bot-con-ESP8266
    ```
 2. Abre el archivo `.ino` en el Arduino IDE.
 3. Configura las credenciales de WiFi y el token del bot de Telegram:
