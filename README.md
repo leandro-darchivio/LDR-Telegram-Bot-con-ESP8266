@@ -69,9 +69,9 @@ En tu chat de Telegram recibirás mensajes como:
 Valor del LDR: 512
 Valor del LDR: 768
 ```
-![Interfaz de Telegram](Screenshot_Telegram.png)
 
-<img src="Screenshot_Telegram.png" width="100">
+
+<img src="Screenshot_Telegram.png" width="300">
 
 
 ## Personalización
