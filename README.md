@@ -52,7 +52,9 @@ Este proyecto implementa un bot de Telegram que utiliza un ESP8266 para leer el 
    - Otro extremo al **VCC**.
    - Conecta el resistor de 10kΩ entre el pin A0 y **GND**.
 
-![Plaqueta](placa.png){: width="50px"}
+
+<img src="placa.png" width="100">
+
 
 
 ### Librerías necesarias
