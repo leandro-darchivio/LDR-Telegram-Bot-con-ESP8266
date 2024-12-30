@@ -71,6 +71,9 @@ Valor del LDR: 768
 ```
 ![Interfaz de Telegram](Screenshot_Telegram.png)
 
+<img src="Screenshot_Telegram.png" width="100">
+
+
 ## Personalización
 - Puedes cambiar el intervalo de tiempo modificando esta línea en el código:
   ```cpp
