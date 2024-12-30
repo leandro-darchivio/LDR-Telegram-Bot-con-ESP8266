@@ -69,7 +69,7 @@ En tu chat de Telegram recibirás mensajes como:
 Valor del LDR: 512
 Valor del LDR: 768
 ```
-![Interfaz de Telegram](Screenshot_Telegram.png =100x100)
+![Interfaz de Telegram](Screenshot_Telegram.png)
 
 ## Personalización
 - Puedes cambiar el intervalo de tiempo modificando esta línea en el código:
