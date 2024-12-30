@@ -51,7 +51,7 @@ Este proyecto implementa un bot de Telegram que utiliza un ESP8266 para leer el 
    - Un extremo del LDR al pin A0.
    - Otro extremo al **VCC**.
    - Conecta el resistor de 10kΩ entre el pin A0 y **GND**.
-
+<img src="3.png" width="50">
 
 <img src="placa.png" width="400">
 
