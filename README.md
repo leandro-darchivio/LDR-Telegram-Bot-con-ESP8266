@@ -73,7 +73,7 @@ Valor del LDR: 768
 ```
 
 
-<img src="Screenshot_Telegram.png" width="300">
+<img src="Screenshot_Telegram.png" width="600">
 
 
 ## Personalización
